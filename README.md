@@ -1,2 +1,2 @@
-#TL;DR
+# TL;DR
 The Titanic was a luxury liner that sank on its maiden voyage on April 15, 1912 after hitting an iceberg. 1,517 people died in the disaster and only 712 survived. In this competition, we would like to predict according to a prediction model that was built whether a certain person survived or not. In order to build a model that is as accurate as possible, we will investigate the characteristics that include the passenger data and try to find a connection between them and their chance of survival. In addition, we will perform several experiments with different prediction models that we learned for a binary classification problem and we will make a decision on which model to use according to their accuracy.
